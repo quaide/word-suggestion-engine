@@ -25,7 +25,6 @@ public class BiGram {
                 map.merge(new ArrayList<>(Arrays.asList(list[j - 1], list[j])), 1, Integer::sum);
             }
         }
-
     }
 
     /**

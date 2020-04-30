@@ -1,8 +1,14 @@
 import java.util.Scanner;
 
 /**
- * Serves as the driver class where all other classes and their methods are called. The program
- * accepts single worded answers and based on prior messages it suggests a next word.
+ * Quaide Tranter
+ * April 27, 2020
+ * Intro to Data Engineering
+ * Professor Greenwell
+ *
+ * Link to complete project on GitHub: https://github.com/quaide/word-suggestion-engine
+ *
+ * Drives the final coding assignment.
  */
 public class Main {
 
